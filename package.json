@@ -1,0 +1,11 @@
+{
+  "name": "harrypotter-api",
+  "version": "1.0.0",
+  "description": "harry potter api developed in nodejs with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Larissa Ishikawa",
+  "license": "ISC"
+}
